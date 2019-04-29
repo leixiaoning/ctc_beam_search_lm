@@ -1,3 +1,4 @@
+//c++ source file
 #include "lm/config.hh"
 
 #include <iostream>
